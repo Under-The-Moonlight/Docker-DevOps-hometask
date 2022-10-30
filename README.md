@@ -1,6 +1,6 @@
 # Docker-DevOps-hometask
 
-##CLI commands
+## CLI commands
 
 **Building docker image**
 
